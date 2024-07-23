@@ -4,7 +4,7 @@ import os
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7477272049:AAEKOwIvQGM-iNOmvj-WBaM1_s9LIAGEvwg")
 API_ID = int(os.environ.get("API_ID", "28243586"))
 API_HASH = os.environ.get("API_HASH", "4022d5686b9b7a7cf8891205921a0ab3")
-OWNER = int(os.environ.get("OWNER", "5789545553 5340652544"))
+OWNER = int(os.environ.get("OWNER", "5340652544"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "SMRenamerBot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002235661888")
